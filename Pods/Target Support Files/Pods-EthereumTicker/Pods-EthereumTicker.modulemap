@@ -1,0 +1,6 @@
+framework module Pods_EthereumTicker {
+  umbrella header "Pods-EthereumTicker-umbrella.h"
+
+  export *
+  module * { export * }
+}
